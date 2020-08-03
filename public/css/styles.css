@@ -1,0 +1,38 @@
+h1 {
+    padding: 5% 5%;
+}
+
+h5,label {
+    padding: 3% 3%;
+}
+
+.end-button {
+    position: relative;
+    left: 20%;
+}
+
+.image1 {
+    position: relative;
+    left: 80%;
+    width: 40%;
+    top: 30%;
+}
+
+.image2 {
+    position: relative;
+    width: 40%;
+    left: 80%;
+    bottom: 40%;
+}
+
+/* .image1-p {
+    position: relative;
+    left: 120%;
+    bottom: 50%;
+}
+
+.image2-p {
+    position: relative;
+    left: 130%;
+    bottom: 10%;
+} */
